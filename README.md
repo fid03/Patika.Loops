@@ -19,3 +19,7 @@ Java ile kombinasyon hesaplayan program yazınız.
 
 Kombinasyon formülü
 C(n,r) = n! / (r! * (n-r)!)
+
+5.Ödev
+
+Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız.
