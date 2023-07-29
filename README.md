@@ -24,6 +24,10 @@ C(n,r) = n! / (r! * (n-r)!)
 
 Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız.
 
+7.Ödev
+
+Java ile girilen sayının harmonik serisini bulan program yazacağız.
+
 11.Ödev(Find max and min number)
 
 Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın.
